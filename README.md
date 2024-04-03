@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YanErnesto
-- 👀 Estudando/Cursando Js,Css,JAVA,SQL.
+- 👀 Estudando/Cursando Js, PHP,JAVA,SQL.
 - 🌱 Lendo Deversos Livros sobre Algoritimos,Logica...
 - 💞️ Estou estudando Para no futuro me tornar um programador Full Stack Web e mais pra frente Mobile 
 - 📫 Tenho 15 anos no momento e estou bem ansioso para conseguir minha primeira vaga no Mercado de Trabalho ...
