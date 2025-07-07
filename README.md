@@ -1,7 +1,7 @@
 
 
 ## Hello I'm Yan Ernesto ✋🏼
-#### Meu nome é Yan Ernesto <img alt = "Garoto Correndo" style = "height: 20px; widht: 20px; align: center; justify-content: center; text-align: center" src= "https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-skin-tone_1f3c3-1f3fd_1f3fd.png" />, tenho 18 anos <br/> sou de São Paulo e atualmente estudo <br/>para me introduzir no mercado de trabalho.<br/>Recentemente finalizei o meu curso técnico de <br/> Desenvolvimento de Sistemas, o que me fez <br/>entrar de cabeça na área. <br/>Sigo aprofundando os meus conhecimentos nesse ecossistema! 
+#### Meu nome é Yan Ernesto <img alt = "Garoto Correndo" style = "height: 20px; widht: 20px; align: center; justify-content: center; text-align: center" src= "https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-skin-tone_1f3c3-1f3fd_1f3fd.png" />, tenho 19 anos <br/> sou de São Paulo e atualmente estudo <br/>para me introduzir no mercado de trabalho.<br/>Recentemente finalizei o meu curso técnico de <br/> Desenvolvimento de Sistemas, o que me fez <br/>entrar de cabeça na área. <br/>Sigo aprofundando os meus conhecimentos nesse ecossistema! 
 
 ## Contact Me...
 
